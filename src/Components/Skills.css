@@ -8,7 +8,7 @@
     border-radius: 64px;
     text-align: center;
     padding: 60px 50px;
-    margin-top: -60px;
+    margin-top: 30px;
     margin-left: 4rem;
   }
   .skill h2 {
@@ -38,4 +38,5 @@
     width: 40%;
     z-index: -4;
   }
+
   
